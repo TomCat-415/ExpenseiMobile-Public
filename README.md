@@ -29,18 +29,20 @@ Smart budget and expense tracker with **multi-currency support**, **OCR receipt 
 
 <h2>Screenshots</h2>
 
+<h2>Screenshots</h2>
+
 <div align="center">
   <a href="./screenshots/onboarding.png">
-    <img src="./screenshots/onboarding.png" alt="Onboarding screen" width="220" style="margin:0 8px 12px;" />
+    <img src="./screenshots/onboarding.png" alt="Onboarding screen" width="220" />
   </a>
   <a href="./screenshots/dashboard.png">
-    <img src="./screenshots/dashboard.png" alt="Dashboard screen" width="220" style="margin:0 8px 12px;" />
+    <img src="./screenshots/dashboard.png" alt="Dashboard screen" width="220" />
   </a>
   <a href="./screenshots/add-expense.png">
-    <img src="./screenshots/add-expense.png" alt="Add Expense screen" width="220" style="margin:0 8px 12px;" />
+    <img src="./screenshots/add-expense.png" alt="Add Expense screen" width="220" />
   </a>
   <a href="./screenshots/analytics.png">
-    <img src="./screenshots/analytics.png" alt="Analytics screen" width="220" style="margin:0 8px 12px;" />
+    <img src="./screenshots/analytics.png" alt="Analytics screen" width="220" />
   </a>
 </div>
 
