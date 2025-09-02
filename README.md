@@ -31,16 +31,16 @@ Smart budget and expense tracker with **multi-currency support**, **OCR receipt 
 
 <div align="center">
   <a href="./screenshots/onboarding.png">
-    <img src="./screenshots/onboarding.png" alt="Onboarding screen" width="220" />
+    <img src="./screenshots/onboarding.png" alt="Onboarding screen" width="200" />
   </a>
   <a href="./screenshots/dashboard.png">
-    <img src="./screenshots/dashboard.png" alt="Dashboard screen" width="220" />
+    <img src="./screenshots/dashboard.png" alt="Dashboard screen" width="200" />
   </a>
   <a href="./screenshots/add-expense.png">
-    <img src="./screenshots/add-expense.png" alt="Add Expense screen" width="220" />
+    <img src="./screenshots/add-expense.png" alt="Add Expense screen" width="200" />
   </a>
   <a href="./screenshots/analytics.png">
-    <img src="./screenshots/analytics.png" alt="Analytics screen" width="220" />
+    <img src="./screenshots/analytics.png" alt="Analytics screen" width="200" />
   </a>
 </div>
 
@@ -63,4 +63,4 @@ Smart budget and expense tracker with **multi-currency support**, **OCR receipt 
 
 ## 📄 License
 This showcase repo is licensed under the MIT License.  
-Source code is proprietary and private.  
+Source code is proprietary and private. Access available upon request.
