@@ -27,16 +27,22 @@ Smart budget and expense tracker with **multi-currency support**, **OCR receipt 
 
 ---
 
-## Screenshots
+<h2>Screenshots</h2>
 
-<p align="center">
-  <img src="./ExpenseiMobileExpo/docs/screenshots/onboarding.png" alt="Onboarding" width="45%"/>
-  <img src="./ExpenseiMobileExpo/docs/screenshots/dashboard.png" alt="Dashboard" width="45%"/>
-</p>
-<p align="center">
-  <img src="./ExpenseiMobileExpo/docs/screenshots/add-expense.png" alt="Add Expense" width="45%"/>
-  <img src="./ExpenseiMobileExpo/docs/screenshots/analytics.png" alt="Analytics" width="45%"/>
-</p> 
+<div align="center">
+  <a href="./screenshots/onboarding.png">
+    <img src="./screenshots/onboarding.png" alt="Onboarding screen" width="220" style="margin:0 8px 12px;" />
+  </a>
+  <a href="./screenshots/dashboard.png">
+    <img src="./screenshots/dashboard.png" alt="Dashboard screen" width="220" style="margin:0 8px 12px;" />
+  </a>
+  <a href="./screenshots/add-expense.png">
+    <img src="./screenshots/add-expense.png" alt="Add Expense screen" width="220" style="margin:0 8px 12px;" />
+  </a>
+  <a href="./screenshots/analytics.png">
+    <img src="./screenshots/analytics.png" alt="Analytics screen" width="220" style="margin:0 8px 12px;" />
+  </a>
+</div>
 
 ---
 
