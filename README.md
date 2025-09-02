@@ -29,8 +29,6 @@ Smart budget and expense tracker with **multi-currency support**, **OCR receipt 
 
 <h2>Screenshots</h2>
 
-<h2>Screenshots</h2>
-
 <div align="center">
   <a href="./screenshots/onboarding.png">
     <img src="./screenshots/onboarding.png" alt="Onboarding screen" width="220" />
